@@ -1,0 +1,14 @@
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\bin\Debug\Pizzaria.DTO.dll
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\bin\Debug\Pizzaria.DTO.pdb
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.csprojAssemblyReference.cache
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.dll
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.pdb
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.csprojAssemblyReference.cache
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.dll
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.pdb
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\bin\Debug\Pizzaria.DTO.dll
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\bin\Debug\Pizzaria.DTO.pdb
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.csprojAssemblyReference.cache
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.dll
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.pdb

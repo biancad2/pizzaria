@@ -1,0 +1,65 @@
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.PL.exe.config
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.PL.exe
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.PL.pdb
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.BLL.dll
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.DTO.dll
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.DAL.dll
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.BLL.pdb
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.DTO.pdb
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.DAL.pdb
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.DAL.dll.config
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.csprojAssemblyReference.cache
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroCliente.resources
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroPedido.resources
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroProduto.resources
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmPedidos.resources
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmPesquisaCliente.resources
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.Properties.Resources.resources
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.csproj.GenerateResource.cache
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.csproj.CopyComplete
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.exe
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.pdb
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroCategoria.resources
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmPesquisaProduto.resources
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmAdcItem.resources
+C:\Users\bianc\Desktop\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmTelaInicial.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.csprojAssemblyReference.cache
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmAdcItem.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroCategoria.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroCliente.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroPedido.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroProduto.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmPedidos.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmPesquisaCliente.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmPesquisaProduto.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmTelaInicial.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.Properties.Resources.resources
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.csproj.GenerateResource.cache
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.exe
+C:\Users\Bianca\OneDrive\UNIP\3º semestre\c#\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.pdb
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.PL.exe.config
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.PL.exe
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.PL.pdb
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.BLL.dll
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.DTO.dll
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.DAL.dll
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.BLL.pdb
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.DTO.pdb
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.DAL.pdb
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\bin\Debug\Pizzaria.DAL.dll.config
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.csprojAssemblyReference.cache
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmAdcItem.resources
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroCategoria.resources
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroCliente.resources
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroPedido.resources
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmCadastroProduto.resources
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmPedidos.resources
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmPesquisaCliente.resources
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmPesquisaProduto.resources
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.FrmTelaInicial.resources
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.Properties.Resources.resources
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.csproj.GenerateResource.cache
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.csproj.CopyComplete
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.exe
+C:\Users\Bianca\Documents\PIZZARIA REAL OFICIAL\Pizzaria\Pizzaria.PL\obj\Debug\Pizzaria.PL.pdb
