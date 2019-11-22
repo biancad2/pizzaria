@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/biancad2/pizzaria">
-    <img src="pizza.svg" alt="Logo" width="150" height="150">
+    <img src="/imgs/pizza.svg" alt="Logo" width="150" height="150">
   </a>
  
   <h3 align="center">Cadastro de pedidos de pizzaria em C#</h3>
