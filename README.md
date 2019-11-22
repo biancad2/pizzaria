@@ -70,7 +70,7 @@ Para a construção do sistema, foram utilizadas as tecnologias:
 
 Bianca Duarte - bianca.duarte.barreto@hotmail.com - +55(13)97413-8414 
 
-Link do projeto: [https://github.com/biancad2/trabalhoraspagem](https://github.com/biancad2/trabalhoraspagem)
+Link do projeto: [https://github.com/biancad2/pizzaria](https://github.com/biancad2/pizzaria)
 
 
 
